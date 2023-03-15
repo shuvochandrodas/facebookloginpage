@@ -1,0 +1,59 @@
+*{margin:0;padding:0;}
+#wrapper{
+    background-color:#cfcfcf;
+}
+h1{
+    color:rgb(0, 0, 255);
+}
+hr{
+    border-style:none;
+    background:#ddd;
+    height:1px;
+}
+.logform{
+    background-color:#ffffff;
+    padding:30px;
+    box-shadow:1px 1px 2px #ddd;
+    border-radius:3px;
+}
+input[type=password]{
+    width: 250px;
+    height: 40px;
+    border-radius: 3px;
+    border-style: none;
+    border: 1px solid #ede9e9;
+    padding-left: 10px;
+}
+input[type=email]{
+    width: 250px;
+    height: 40px;
+    border-radius: 3px;
+    border-style: none;
+    border: 1px solid #ede9e9;
+    padding-left: 10px;
+}
+.submitbtn{
+    width: 265px;
+    height: 30px;
+    background: #3636f5;
+    border-style: none;
+    border-radius: 3px;
+    color: #fff;
+}
+.fogetpass{
+    text-decoration: none;
+    text-align: center;
+    display: block;
+}
+.newAccount{
+    text-decoration: none;
+    background: green;
+    width: 150px;
+    width: 150px;
+    padding: 8px 25px;
+    color: #fff;
+    border-radius: 3px;
+    display: block;
+    margin: 0 auto;
+}
+
